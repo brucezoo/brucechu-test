@@ -1,0 +1,8 @@
+{
+    "name": "brucechu/test",
+    "description": "a test",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "beta",
+    "require": {}
+}
