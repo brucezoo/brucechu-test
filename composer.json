@@ -3,6 +3,6 @@
     "description": "a test",
     "type": "library",
     "license": "MIT",
-    "minimum-stability": "beta",
+    "minimum-stability": "stable",
     "require": {}
 }
